@@ -111,6 +111,8 @@ if __name__ == "__main__":
 
 
 #Création du fichier DOCKERFILE
+sudo docker image build -t flask_docker .
+
 
 
 
